@@ -1,4 +1,4 @@
-# python-file-renamer
+# Python-file-renamer
 
 English Discription:
 
