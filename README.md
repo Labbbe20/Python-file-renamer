@@ -1,6 +1,6 @@
-## python-file-renamer
+# python-file-renamer
 
-#English Discription:
+English Discription:
 
 File Date Renamer is a Python tool for automatically renaming files based on their creation or modification date.
 
@@ -8,7 +8,7 @@ The application allows users to customize the naming format, including the posit
 
 After processing, the tool generates a detailed HTML report containing all renamed files. The report provides a clear overview of the performed changes and includes convenient features such as copying file paths directly from the report.
 
-#Deutsch Beschreibung:
+Deutsch Beschreibung:
 
 Der File Date Renamer ist ein Python-Tool zum automatischen Umbenennen von Dateien anhand ihres Erstellungs- oder Änderungsdatums.
 
